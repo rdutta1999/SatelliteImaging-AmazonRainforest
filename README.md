@@ -38,6 +38,6 @@ We place them in our working directory as shown below:-
      
 </pre>
 
-Here, we have used **Fastai**, and after creating an ImageDataBunch, we finetuned a pre-trained Resnet50 to perform the Multi-label classification task.
+Here, we have used **Fastai** (1.0.60), and after creating an ImageDataBunch, we finetuned a pre-trained Resnet50 to perform the Multi-label classification task.
 
 **Note:** The **trained_model.pkl** file has been uploaded using **Git-LFS**.
